@@ -1,6 +1,8 @@
 # LocalAI
 LocalAIImplementation
 
+Using OLLAMA, Open-Web_UI
+
 This is a repository to provide guidence to run local AI in your system
 
 The information is already available in internet
