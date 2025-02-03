@@ -2,4 +2,8 @@
 LocalAIImplementation
 
 This is a repository to provide guidence to run local AI in your system
-all the resources used here are for non-commercial purpose and are mostly free and open-soruce for personal use
+
+The information is already available in internet
+I just consolidated into a simple document guide
+
+all the resources used here are Open-Source and are free for personal use
